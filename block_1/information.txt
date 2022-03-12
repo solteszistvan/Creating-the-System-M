@@ -1,0 +1,5 @@
+A block of unprocessed data, that contains information about:
+  Leírások, kapcsolatok;
+  Processed data;
+  Aggregált_adat_1;
+  Thinking, Content format, Record.
