@@ -1,0 +1,5 @@
+This folder contains the metadata, on which
+  Formats,
+  Data Structures within the model components
+    Git is an example
+are based upon.
